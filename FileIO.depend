@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1359431974 source:d:\fileio\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+
+1359444100 source:e:\files\fileio\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+
+1359888892 source:e:\fileio\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+
